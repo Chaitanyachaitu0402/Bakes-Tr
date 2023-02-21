@@ -202,6 +202,8 @@ footer{
     }
     .grid{
         padding: 10px;
+        display: flex;
+        flex-direction: column;
     }
     .grid-img{
         border-radius: 40px;
